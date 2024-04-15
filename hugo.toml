@@ -1,0 +1,24 @@
+baseURL = 'https://example.org/'
+languageCode = 'ja'
+title = "cotora's blog"
+theme = "paper"
+
+[params]
+
+	# color style
+	color = 'linen'
+
+	# header social icons
+	twitter = 'cotora2121'
+	github = 'cotora'
+	rss = true
+	
+	#home page profile
+	avatar = 'https://cotora2121.com/images/icon_cloud_face.png'
+	name = 'cotora'
+
+	# misc
+	disableHLJS = true
+	disablePostNavigation = true
+	monoDarkIcon = false
+	math = true
