@@ -15,7 +15,7 @@ canonifyurls = true
 	rss = true
 	
 	#home page profile
-	avatar = 'https://cotora2121.com/images/icon_cloud_face.png'
+	avatar = 'http://cotora2121.com/images/icon_cloud_face.png'
 	name = 'cotora'
 
 	# misc
