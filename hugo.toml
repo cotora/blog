@@ -1,4 +1,4 @@
-baseURL = 'https://cotora.github.io/blog/'
+baseURL = 'https://cotora2121.com/blog/'
 languageCode = 'ja'
 title = "cotora's blog"
 theme = "paper"
