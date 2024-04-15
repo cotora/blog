@@ -2,6 +2,7 @@ baseURL = 'https://cotora2121.com/blog/'
 languageCode = 'ja'
 title = "cotora's blog"
 theme = "paper"
+canonifyurls = true
 
 [params]
 
